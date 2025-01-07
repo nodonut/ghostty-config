@@ -1,0 +1,9 @@
+theme=catppuccin-mocha
+
+font-size=18
+font-family="MonoLisa"
+font-family-bold="MonoLisa Book"
+font-family-italic="MonoLisa Book Italic"
+font-family-bold-italic="MonoLisa Bold Italic"
+font-feature=-liga
+font-thicken=true
