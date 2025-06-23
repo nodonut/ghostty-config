@@ -1,9 +1,16 @@
 theme=catppuccin-mocha
 
-font-size=18
-font-family="MonoLisa"
-font-family-bold="MonoLisa Book"
-font-family-italic="MonoLisa Book Italic"
+font-size = 14
+font-family="MonoLisa Regular"
+font-family-bold="MonoLisa Bold"
+font-family-italic="MonoLisa Regular Italic"
 font-family-bold-italic="MonoLisa Bold Italic"
 font-feature=-liga
-font-thicken=true
+font-style="Bold"
+font-synthetic-style = false
+
+background-opacity = 0.6
+
+keybind = ctrl+a>r=reload_config
+
+initial-command = tmux
