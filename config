@@ -1,11 +1,8 @@
 theme = Catppuccin Mocha
-
-font-size = 14
+font-size = 18
 font-family = "MonoLisa"
 font-feature = -liga
 font-style = "Bold"
 font-synthetic-style = false
-
-background-opacity = 0.6
-
-initial-command = tmux
+background-opacity=0.8
+initial-command=/opt/homebrew/bin/tmux
